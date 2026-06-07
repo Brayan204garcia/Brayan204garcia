@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Brayan204garcia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola 👋 Soy Brayan Torres
 
-<!---
-Brayan204garcia/Brayan204garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Analista de Datos y Machine Learning
+📍 Santander, Colombia
+
+Actualmente trabajo en:
+- Dashboards empresariales
+- Modelos predictivos
+- Automatización de procesos
+
+## Tecnologías
+
+Python • SQL • PostgreSQL • Streamlit
+Pandas • Scikit-Learn • Docker • Git
+
+## Proyectos destacados
+
+🚀 Sistema de asistencia biométrica Hikvision
+📈 Predicción de precios de viviendas
+📦 Dashboard de inventarios
+🤖 Automatización de reportes
